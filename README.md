@@ -8,7 +8,7 @@ A console-based, interactive trivia game built in Python that challenges players
 -  **Real-Time Scoring**: Instant feedback for each answer, with a final score summary.
 -  **Progress Bar**: Visual tracker of how many questions you've completed.
 -  **Multiple-Choice Questions**: A/B/C format with immediate validation.
-- ⚙**Threading and Timeout Input**: Uses Python's `threading` and optionally `signal` libraries for managing time-based input.
+-  **Threading and Timeout Input**: Uses Python's `threading` and optionally `signal` libraries for managing time-based input.
 
 ##  Technologies Used
 
